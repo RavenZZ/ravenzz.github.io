@@ -1,5 +1,8 @@
 {% include analytics.html %}
-
+---
+layout: post
+title: RavenZZ's Blog
+---
 
 ## Welcome to RavenZZ's Blog
 
